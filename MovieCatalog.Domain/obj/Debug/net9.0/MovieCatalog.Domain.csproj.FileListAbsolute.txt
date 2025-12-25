@@ -1,0 +1,14 @@
+D:\MovieCatalog\MovieCatalog.Domain\bin\Debug\net9.0\MovieCatalog.Domain.deps.json
+D:\MovieCatalog\MovieCatalog.Domain\bin\Debug\net9.0\MovieCatalog.Domain.runtimeconfig.json
+D:\MovieCatalog\MovieCatalog.Domain\bin\Debug\net9.0\MovieCatalog.Domain.dll
+D:\MovieCatalog\MovieCatalog.Domain\bin\Debug\net9.0\MovieCatalog.Domain.pdb
+D:\MovieCatalog\MovieCatalog.Domain\obj\Debug\net9.0\MovieCatalog.Domain.csproj.AssemblyReference.cache
+D:\MovieCatalog\MovieCatalog.Domain\obj\Debug\net9.0\MovieCatalog.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\MovieCatalog\MovieCatalog.Domain\obj\Debug\net9.0\MovieCatalog.Domain.AssemblyInfoInputs.cache
+D:\MovieCatalog\MovieCatalog.Domain\obj\Debug\net9.0\MovieCatalog.Domain.AssemblyInfo.cs
+D:\MovieCatalog\MovieCatalog.Domain\obj\Debug\net9.0\MovieCatalog.Domain.csproj.CoreCompileInputs.cache
+D:\MovieCatalog\MovieCatalog.Domain\obj\Debug\net9.0\MovieCatalog.Domain.dll
+D:\MovieCatalog\MovieCatalog.Domain\obj\Debug\net9.0\refint\MovieCatalog.Domain.dll
+D:\MovieCatalog\MovieCatalog.Domain\obj\Debug\net9.0\MovieCatalog.Domain.pdb
+D:\MovieCatalog\MovieCatalog.Domain\obj\Debug\net9.0\MovieCatalog.Domain.genruntimeconfig.cache
+D:\MovieCatalog\MovieCatalog.Domain\obj\Debug\net9.0\ref\MovieCatalog.Domain.dll

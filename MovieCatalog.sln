@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36717.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieCatalog.WebAPI", "MovieCatalog.WebAPI\MovieCatalog.WebAPI.csproj", "{33D26353-286C-4D44-BE5E-1B21D9875DF0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieCatalog.Application", "MovieCatalog.Application\MovieCatalog.Application.csproj", "{1FCA07C3-7E67-439C-B8B1-3D108A4588FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieCatalog.Domain", "MovieCatalog.Domain\MovieCatalog.Domain.csproj", "{626CBE5F-BE84-416B-B78C-3F5EDBDD6B85}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{FA10BF9A-670A-4E68-A0CF-7C4E7A4B596C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieCatalog.Infrastructure", "MovieCatalog.Infrastructure\MovieCatalog.Infrastructure.csproj", "{EF0BF069-D5F0-4B58-B08F-CB06951741BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieCatalog.Persistence", "MovieCatalog.Persistence\MovieCatalog.Persistence.csproj", "{7A4FA90E-4B76-44B9-89E5-5963730E750B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{7282DBAF-8FD1-4239-AEEF-F16EB90597FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33D26353-286C-4D44-BE5E-1B21D9875DF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33D26353-286C-4D44-BE5E-1B21D9875DF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33D26353-286C-4D44-BE5E-1B21D9875DF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33D26353-286C-4D44-BE5E-1B21D9875DF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FCA07C3-7E67-439C-B8B1-3D108A4588FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FCA07C3-7E67-439C-B8B1-3D108A4588FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FCA07C3-7E67-439C-B8B1-3D108A4588FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FCA07C3-7E67-439C-B8B1-3D108A4588FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{626CBE5F-BE84-416B-B78C-3F5EDBDD6B85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{626CBE5F-BE84-416B-B78C-3F5EDBDD6B85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{626CBE5F-BE84-416B-B78C-3F5EDBDD6B85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{626CBE5F-BE84-416B-B78C-3F5EDBDD6B85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF0BF069-D5F0-4B58-B08F-CB06951741BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF0BF069-D5F0-4B58-B08F-CB06951741BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF0BF069-D5F0-4B58-B08F-CB06951741BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF0BF069-D5F0-4B58-B08F-CB06951741BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A4FA90E-4B76-44B9-89E5-5963730E750B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A4FA90E-4B76-44B9-89E5-5963730E750B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A4FA90E-4B76-44B9-89E5-5963730E750B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A4FA90E-4B76-44B9-89E5-5963730E750B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{33D26353-286C-4D44-BE5E-1B21D9875DF0} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{1FCA07C3-7E67-439C-B8B1-3D108A4588FD} = {FA10BF9A-670A-4E68-A0CF-7C4E7A4B596C}
+		{626CBE5F-BE84-416B-B78C-3F5EDBDD6B85} = {FA10BF9A-670A-4E68-A0CF-7C4E7A4B596C}
+		{EF0BF069-D5F0-4B58-B08F-CB06951741BB} = {7282DBAF-8FD1-4239-AEEF-F16EB90597FA}
+		{7A4FA90E-4B76-44B9-89E5-5963730E750B} = {7282DBAF-8FD1-4239-AEEF-F16EB90597FA}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC272084-A48F-47E1-8BB8-DBCABC11C524}
+	EndGlobalSection
+EndGlobal

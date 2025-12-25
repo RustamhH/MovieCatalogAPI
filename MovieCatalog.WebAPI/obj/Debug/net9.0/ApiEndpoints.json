@@ -1,0 +1,101 @@
+[
+  {
+    "ContainingType": "MovieCatalog.WebAPI.Controllers.MovieController",
+    "Method": "FilterMovieByGenre",
+    "RelativePath": "api/Movie/FilterMovieByGenre",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "genre",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MovieCatalog.WebAPI.Controllers.MovieController",
+    "Method": "FilterMovieByReleaseYear",
+    "RelativePath": "api/Movie/FilterMovieByReleaseYear",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "year",
+        "Type": "System.UInt16",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MovieCatalog.WebAPI.Controllers.MovieController",
+    "Method": "GetAllMovies",
+    "RelativePath": "api/Movie/GetAllMovies",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MovieCatalog.WebAPI.Controllers.MovieController",
+    "Method": "GetMovieByTitle",
+    "RelativePath": "api/Movie/GetMovieByTitle",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "title",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MovieCatalog.WebAPI.Controllers.MovieController",
+    "Method": "GetMoviesWithPagination",
+    "RelativePath": "api/Movie/GetMoviesWithPagination",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "PageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "PageNumber",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MovieCatalog.WebAPI.Controllers.MovieController",
+    "Method": "SortMoviesByRating",
+    "RelativePath": "api/Movie/SortMoviesByRating",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MovieCatalog.WebAPI.Controllers.MovieController",
+    "Method": "SortMoviesByReleaseDate",
+    "RelativePath": "api/Movie/SortMoviesByReleaseDate",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

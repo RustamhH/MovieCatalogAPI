@@ -1,0 +1,17 @@
+D:\MovieCatalog\MovieCatalog.Application\bin\Debug\net9.0\MovieCatalog.Application.deps.json
+D:\MovieCatalog\MovieCatalog.Application\bin\Debug\net9.0\MovieCatalog.Application.runtimeconfig.json
+D:\MovieCatalog\MovieCatalog.Application\bin\Debug\net9.0\MovieCatalog.Application.dll
+D:\MovieCatalog\MovieCatalog.Application\bin\Debug\net9.0\MovieCatalog.Application.pdb
+D:\MovieCatalog\MovieCatalog.Application\bin\Debug\net9.0\MovieCatalog.Domain.dll
+D:\MovieCatalog\MovieCatalog.Application\bin\Debug\net9.0\MovieCatalog.Domain.pdb
+D:\MovieCatalog\MovieCatalog.Application\obj\Debug\net9.0\MovieCatalog.Application.csproj.AssemblyReference.cache
+D:\MovieCatalog\MovieCatalog.Application\obj\Debug\net9.0\MovieCatalog.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\MovieCatalog\MovieCatalog.Application\obj\Debug\net9.0\MovieCatalog.Application.AssemblyInfoInputs.cache
+D:\MovieCatalog\MovieCatalog.Application\obj\Debug\net9.0\MovieCatalog.Application.AssemblyInfo.cs
+D:\MovieCatalog\MovieCatalog.Application\obj\Debug\net9.0\MovieCatalog.Application.csproj.CoreCompileInputs.cache
+D:\MovieCatalog\MovieCatalog.Application\obj\Debug\net9.0\MovieCat.DE06EC30.Up2Date
+D:\MovieCatalog\MovieCatalog.Application\obj\Debug\net9.0\MovieCatalog.Application.dll
+D:\MovieCatalog\MovieCatalog.Application\obj\Debug\net9.0\refint\MovieCatalog.Application.dll
+D:\MovieCatalog\MovieCatalog.Application\obj\Debug\net9.0\MovieCatalog.Application.pdb
+D:\MovieCatalog\MovieCatalog.Application\obj\Debug\net9.0\MovieCatalog.Application.genruntimeconfig.cache
+D:\MovieCatalog\MovieCatalog.Application\obj\Debug\net9.0\ref\MovieCatalog.Application.dll

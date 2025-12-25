@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MovieCatalog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF0BF069-D5F0-4B58-B08F-CB06951741BB}|MovieCatalog.Infrastructure\\MovieCatalog.Infrastructure.csproj|d:\\moviecatalog\\moviecatalog.infrastructure\\services\\internalservices\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF0BF069-D5F0-4B58-B08F-CB06951741BB}|MovieCatalog.Infrastructure\\MovieCatalog.Infrastructure.csproj|solutionrelative:moviecatalog.infrastructure\\services\\internalservices\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33D26353-286C-4D44-BE5E-1B21D9875DF0}|MovieCatalog.WebAPI\\MovieCatalog.WebAPI.csproj|d:\\moviecatalog\\moviecatalog.webapi\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33D26353-286C-4D44-BE5E-1B21D9875DF0}|MovieCatalog.WebAPI\\MovieCatalog.WebAPI.csproj|solutionrelative:moviecatalog.webapi\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FCA07C3-7E67-439C-B8B1-3D108A4588FD}|MovieCatalog.Application\\MovieCatalog.Application.csproj|d:\\moviecatalog\\moviecatalog.application\\services\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FCA07C3-7E67-439C-B8B1-3D108A4588FD}|MovieCatalog.Application\\MovieCatalog.Application.csproj|solutionrelative:moviecatalog.application\\services\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A4FA90E-4B76-44B9-89E5-5963730E750B}|MovieCatalog.Persistence\\MovieCatalog.Persistence.csproj|d:\\moviecatalog\\moviecatalog.persistence\\repositories\\movie\\readmovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A4FA90E-4B76-44B9-89E5-5963730E750B}|MovieCatalog.Persistence\\MovieCatalog.Persistence.csproj|solutionrelative:moviecatalog.persistence\\repositories\\movie\\readmovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A4FA90E-4B76-44B9-89E5-5963730E750B}|MovieCatalog.Persistence\\MovieCatalog.Persistence.csproj|d:\\moviecatalog\\moviecatalog.persistence\\repositories\\common\\readgenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A4FA90E-4B76-44B9-89E5-5963730E750B}|MovieCatalog.Persistence\\MovieCatalog.Persistence.csproj|solutionrelative:moviecatalog.persistence\\repositories\\common\\readgenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IMovieService.cs",
+              "DocumentMoniker": "D:\\MovieCatalog\\MovieCatalog.Application\\Services\\IMovieService.cs",
+              "RelativeDocumentMoniker": "MovieCatalog.Application\\Services\\IMovieService.cs",
+              "ToolTip": "D:\\MovieCatalog\\MovieCatalog.Application\\Services\\IMovieService.cs",
+              "RelativeToolTip": "MovieCatalog.Application\\Services\\IMovieService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T20:59:28.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "D:\\MovieCatalog\\MovieCatalog.WebAPI\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "MovieCatalog.WebAPI\\Controllers\\MovieController.cs",
+              "ToolTip": "D:\\MovieCatalog\\MovieCatalog.WebAPI\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "MovieCatalog.WebAPI\\Controllers\\MovieController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T20:54:03.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovieService.cs",
+              "DocumentMoniker": "D:\\MovieCatalog\\MovieCatalog.Infrastructure\\Services\\InternalServices\\MovieService.cs",
+              "RelativeDocumentMoniker": "MovieCatalog.Infrastructure\\Services\\InternalServices\\MovieService.cs",
+              "ToolTip": "D:\\MovieCatalog\\MovieCatalog.Infrastructure\\Services\\InternalServices\\MovieService.cs",
+              "RelativeToolTip": "MovieCatalog.Infrastructure\\Services\\InternalServices\\MovieService.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAA4wHEAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T20:49:28.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReadMovieRepository.cs",
+              "DocumentMoniker": "D:\\MovieCatalog\\MovieCatalog.Persistence\\Repositories\\Movie\\ReadMovieRepository.cs",
+              "RelativeDocumentMoniker": "MovieCatalog.Persistence\\Repositories\\Movie\\ReadMovieRepository.cs",
+              "ToolTip": "D:\\MovieCatalog\\MovieCatalog.Persistence\\Repositories\\Movie\\ReadMovieRepository.cs",
+              "RelativeToolTip": "MovieCatalog.Persistence\\Repositories\\Movie\\ReadMovieRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T20:49:21.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReadGenericRepository.cs",
+              "DocumentMoniker": "D:\\MovieCatalog\\MovieCatalog.Persistence\\Repositories\\Common\\ReadGenericRepository.cs",
+              "RelativeDocumentMoniker": "MovieCatalog.Persistence\\Repositories\\Common\\ReadGenericRepository.cs",
+              "ToolTip": "D:\\MovieCatalog\\MovieCatalog.Persistence\\Repositories\\Common\\ReadGenericRepository.cs",
+              "RelativeToolTip": "MovieCatalog.Persistence\\Repositories\\Common\\ReadGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T20:49:17.171Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
