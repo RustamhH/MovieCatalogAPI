@@ -21,8 +21,14 @@ The project is built using Onion Architecture, ensuring separation of concerns a
 
 Layers
 ├── Domain          → Entities, Enums, Core business rules
+
+
 ├── Application     → Services, DTOs, Result Pattern, Validators
+
+
 ├── Infrastructure  → Repositories, EF Core, Data access
+
+
 ├── WebAPI          → Controllers, DI configuration, Swagger
 
 Key Design Patterns Used
