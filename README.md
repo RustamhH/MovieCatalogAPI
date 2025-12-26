@@ -20,6 +20,8 @@ Apply clean architecture principles in a real-world scenario
 The project is built using Onion Architecture, ensuring separation of concerns and high maintainability.
 
 Layers
+
+
 ├── Domain          → Entities, Enums, Core business rules
 
 
